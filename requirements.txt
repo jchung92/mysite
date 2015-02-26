@@ -2,7 +2,10 @@ Django==1.7.2
 dj-database-url==0.3.0
 dj-static==0.0.6
 django-toolbelt==0.0.1
+<<<<<<< HEAD
 gunicorn==19.2.1
+=======
+>>>>>>> a09eaf31e0dadc3ab34ee4dcab7ae94320b8033c
 psycopg2==2.5.4
 static3==0.5.1
 waitress==0.8.9

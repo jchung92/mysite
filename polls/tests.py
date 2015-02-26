@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import datetime
 
 from django.utils import timezone
@@ -126,3 +127,8 @@ class QuestionViewTests(TestCase):
                                    args=(past_question.id,)))
         self.assertContains(response, past_question.question_text,
                             status_code=200)
+=======
+from django.test import TestCase
+
+# Create your tests here.
+>>>>>>> a09eaf31e0dadc3ab34ee4dcab7ae94320b8033c
